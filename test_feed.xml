@@ -1,15 +1,19 @@
 <rss version="2.0">
 	<channel>
-		<title>Liftoff News</title>
-		<link>http://liftoff.msfc.nasa.gov/</link>
-		<description>Liftoff to Space Exploration.</description>
-		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2003 09:41:01 GMT</lastBuildDate>
-		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<generator>Weblog Editor 2.0</generator>
-		<managingEditor>editor@example.com</managingEditor>
-		<webMaster>webmaster@example.com</webMaster>
+		<title>充电时区</title>
+		<itunes:image href="https://github.com/zhaowweny/zhaowweny.github.io/blob/master/images/cover.png" />
+		<itunes:category text="Society & Culture"></itunes:category>
+		<description>
+		  朋友你好，欢迎来到充电时区！
+		电台之所以叫充电时区，是因为每天都有24个小时，我们的地球被分为24个时区，得益于互联网的普及，我们可以随时随地保持联系。
+		进入充电时区，我们可以学习，可以倾听，可以分享，可以闲聊，可以放下一切。。。
+		</description>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:author>果冻虾仁</itunes:author>
+		<itunes:owner>
+			<itunes:name>果冻虾仁</itunes:name>
+			<itunes:email>jelly.k.wang@qq.com</itunes:email>
+		</itunes:owner>
 		<item>
 			<title>Star City</title>
 			<link>http://liftoff.msfc.nasa.gov/news/2003/news-starcity.asp
