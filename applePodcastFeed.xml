@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+        <title>充电时区</title>
+        <description>24个小时，24个时区，找到你的充电时区！</description>
+        <copyright>&#169; 2020 充电时区版权所有</copyright>
+        <language>zh-cn</language>
+		<itunes:image href="http://q54egp96u.bkt.clouddn.com/cover_with_color_config_file.png" />
+	    <itunes:category text="Society &amp; Culture"></itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>文阳</itunes:author>
+        <itunes:owner>
+		    <itunes:name>文阳</itunes:name>
+		    <itunes:email>zhaowweny@qq.com</itunes:email>
+	    </itunes:owner>
+		<item>
+            <title>开场白</title>
+            <author>文阳</author>
+            <description>你好，欢迎来到充电时区！</description>
+            <enclosure
+                url="https://raw.githubusercontent.com/zhaowweny/zhaowweny.github.io/master/images/1.%E5%BC%80%E5%9C%BA%E7%99%BD.mp3" 
+                length="2135658"
+                type="audio/mpeg"
+            />
+            <pubDate>Tue, Feb 04 2020 11:10:36 GMT+0800</pubDate>
+            <itunes:duration>53</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+	</channel>
+</rss>
