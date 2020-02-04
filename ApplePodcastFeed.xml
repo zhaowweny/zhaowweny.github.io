@@ -2,8 +2,9 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
         <title>充电时区</title>
-        <description>24个小时，24个时区，找到你的充电时区！</description>
+        <description>24个小时，24个时区，这里是充电时区，欢迎互相学习、倾听、分享。微信公众号：充电时区，网易云音乐电台：充电时区，欢迎您的关注！</description>
         <copyright>&#169; 2020 充电时区版权所有</copyright>
+	<link>https://music.163.com/#/radio?id=794408760&userid=36483032</link>
         <language>zh-cn</language>
 		<itunes:image href="http://q54egp96u.bkt.clouddn.com/cover_with_color_config_file.png" />
 	    <itunes:category text="Society &amp; Culture"></itunes:category>
@@ -16,7 +17,13 @@
 		<item>
             <title>开场白</title>
             <author>文阳</author>
-            <description>你好，欢迎来到充电时区！</description>
+            <description>
+		朋友你好，欢迎来到充电时区！
+		很久以前，我就有成为网络电台主播的想法，这样可以倒逼我不断去学习，锻炼我的表达能力，同时结识更多的朋友。
+		这次由于新型冠状病毒肺炎的影响，整个春节我们都老老实实地待在家里。于是乎，我便着手实施我的电台计划。
+		电台之所以叫充电时区，是因为每天都有24个小时，我们的地球被分为24个时区，得益于互联网的普及，我们可以随时随地保持联系。
+		进入充电时区，我们可以学习，可以倾听，可以分享，可以闲聊，可以放下一切。。。
+	    </description>
             <enclosure
                 url="https://raw.githubusercontent.com/zhaowweny/zhaowweny.github.io/master/images/1.%E5%BC%80%E5%9C%BA%E7%99%BD.mp3" 
                 length="2135658"
